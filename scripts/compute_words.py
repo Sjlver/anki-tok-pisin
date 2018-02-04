@@ -19,46 +19,70 @@ SENTENCE_RE = re.compile(
         )
 WORD_ONLY_RE = re.compile(r'[A-Za-z0-9](?:[A-Za-z0-9–—-]*[A-Za-z0-9]|)')
 
-# Read sentences from a corpus file
-corpus_file = sys.argv[1]
-words_file = sys.argv[2]
-bigrams_file = sys.argv[3]
-sentences_file = sys.argv[4]
-with open(corpus_file) as f:
-    sentences = []
-    for paragraph in f:
-        if paragraph.startswith('#'): continue
-        for paragraph_sentence in re.findall(SENTENCE_RE, paragraph):
-            sentences.append(re.sub(r'\s+', ' ', paragraph_sentence))
+def read_sentences_from_corpus(corpus_file):
+    """Read sentences from a corpus file"""
+    with open(corpus_file) as f:
+        sentences = []
+        for paragraph in f:
+            if paragraph.startswith('#'): continue
+            for paragraph_sentence in re.findall(SENTENCE_RE, paragraph):
+                if is_well_formed_sentence(paragraph_sentence):
+                    sentences.append(clean_sentence(paragraph_sentence))
+    return sentences
+
+def clean_sentence(sentence):
+    """Remove extra white space from `sentence`."""
+    return re.sub(r'\s+', ' ', sentence)
+
+def is_well_formed_sentence(sentence):
+    """Checks the sentence for problems such as unmatched parentheses."""
+    # TODO: Don't care for the moment.
+    return True
 
 
-# Count words and bigrams
-all_words = []
-for sentence in sentences:
-    words = ['<s>'] + WORD_ONLY_RE.findall(sentence) + ['</s>']
-    for word in words:
-        all_words.append(word)
+def extract_words(sentences):
+    all_words = []
+    for sentence in sentences:
+        words = ['<s>'] + WORD_ONLY_RE.findall(sentence) + ['</s>']
+        for word in words:
+            all_words.append(word)
+    return all_words
 
-words = {}
-bigrams = {}
+def count_words(sentences):
+    all_words = extract_words(sentences)
+    words = {}
+    for w in all_words:
+        words[w] = words.get(w, 0) + 1
+    del words['<s>']
+    del words['</s>']
+    return words
 
-for w in all_words:
-    words[w] = words.get(w, 0) + 1
-for b in zip(all_words, all_words[1:]):
-    bigrams[b] = bigrams.get(b, 0) + 1
+def count_bigrams(sentences):
+    all_words = extract_words(sentences)
+    bigrams = {}
+    for b in zip(all_words, all_words[1:]):
+        bigrams[b] = bigrams.get(b, 0) + 1
+    del bigrams[('</s>', '<s>')]
+    return bigrams
 
-del words['<s>']
-del words['</s>']
-del bigrams[('</s>', '<s>')]
+def main(args):
+    corpus_file, words_file, bigrams_file, sentences_file = args
 
-with open(words_file, 'w') as f:
-    for w, c in sorted(words.items(), key=lambda i: (-i[1], i[0])):
-        f.write("{} {}\n".format(w, c))
+    sentences = read_sentences_from_corpus(corpus_file)
+    words = count_words(sentences)
+    bigrams = count_bigrams(sentences)
 
-with open(bigrams_file, 'w') as f:
-    for (w1, w2), c in sorted(bigrams.items(), key=lambda i: (-i[1], i[0])):
-        f.write("{} {} {}\n".format(w1, w2, c))
+    with open(words_file, 'w') as f:
+        for w, c in sorted(words.items(), key=lambda i: (-i[1], i[0])):
+            f.write("{}\t{}\n".format(c, w))
 
-with open(sentences_file, 'w') as f:
-    for s in sentences:
-        f.write("{}\n".format(s))
+    with open(bigrams_file, 'w') as f:
+        for (w1, w2), c in sorted(bigrams.items(), key=lambda i: (-i[1], i[0])):
+            f.write("{}\t{}\t{}\n".format(c, w1, w2))
+
+    with open(sentences_file, 'w') as f:
+        for s in sentences:
+            f.write("{}\n".format(s))
+
+if __name__ == '__main__':
+    main(sys.argv[1:])
