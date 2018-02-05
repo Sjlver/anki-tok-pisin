@@ -115,7 +115,7 @@ def main():
         print(example_sentence(args.word, sentences, words, bigrams))
     else:
         anki = json.load(args.anki)
-        notes = [process_note(note, sentences, words, bigrams) for note in anki["notes"][:10]]
+        notes = [process_note(note, sentences, words, bigrams) for note in anki["notes"]]
         anki["notes"] = notes
         json.dump(anki, args.output, sort_keys=True, indent=4)
 
