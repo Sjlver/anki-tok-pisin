@@ -1,0 +1,3 @@
+Reviewed until "holim ... i stap".
+
+Check guids for uniqueness...
