@@ -110,7 +110,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article} \\special{papersize=3in,5in} \\usepackage[utf8]{inputenc} \\usepackage{amssymb,amsmath} \\pagestyle{empty} \\setlength{\\parindent}{0in} \\begin{document} ",
-            "name": "Basic (and reversed card)-e18c0",
+            "name": "Tok Pisin Basic Note",
             "req": [
                 [
                     0,
@@ -152,60 +152,6 @@
                     "name": "Backward",
                     "ord": 1,
                     "qfmt": "<span class=\"back\">{{English}}</span>"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 12,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 12,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-3656a",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<span style=\"   \">{{Back}}</span>",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Forward",
-                    "ord": 0,
-                    "qfmt": "<span style=\"   \">{{Front}}</span>"
                 }
             ],
             "type": 0,
@@ -30035,149 +29981,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "<i>The Lord's prayer</i><div><br /><div><div>Papa bilong mipela</div><div>Yu stap long heven.</div></div></div>",
-                "Nem bilong yu i mas i stap holi.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "b9PMa/<{k{",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Nem bilong yu i mas i stap holi.</div>",
-                "Kingdom bilong yu i mas i kam.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "FvY+[CT4K]",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Kingdom bilong yu i mas i kam.</div>",
-                "<div>Strongim mipela long bihainim laik bilong yu long graun,</div><div><div>olsem ol i bihainim long heven.</div></div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "b{!c//[l8T",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div><i>The Lord's prayer</i></div><div><br /></div><div>Strongim mipela long bihainim laik bilong yu long graun,</div><div><div>olsem ol i bihainim long heven.</div></div>",
-                "<div>Givim mipela kaikai inap long tude.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "buvHvRNPV}",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Givim mipela kaikai inap long tude.</div>",
-                "<div>Pogivim rong bilong mipela,</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Imy{2_,|;y",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Pogivim rong bilong mipela,</div>",
-                "<div>olsem mipela i pogivim ol arapela i mekim rong long mipela.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "k~]0^qfhW~",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>olsem mipela i pogivim ol arapela i mekim rong long mipela.</div>",
-                "<div>Sambai long mipela long taim bilong traim.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "o-}z;Go5a&",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Sambai long mipela long taim bilong traim.</div>",
-                "<div>Na rausim olgeta samting nogut long mipela.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "L1K<3?cRQ#",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Na rausim olgeta samting nogut long mipela.</div>",
-                "<div>Kingdom na strong na glori, em i bilong yu tasol oltaim oltaim.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "kzMy{1B31v",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>Kingdom na strong na glori, em i bilong yu tasol oltaim oltaim.</div>",
-                "I tru.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "E77z`y:Xc$",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<i>The Lord's prayer</i><div><br /></div><div>(Start)</div>",
-                "<div>Papa bilong mipela</div><div>Yu stap long heven.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "eu|E4b9,#-",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Givim siksti",
                 "Run, go quickly",
                 "",
@@ -30225,11 +30028,13 @@
             "fields": [
                 "sting (e.g., sting long matmat) ",
                 "To rot",
+                "",
+                "",
                 ""
             ],
             "flags": 0,
             "guid": "7%083",
-            "note_model_uuid": "679e5411-0432-11e8-85e5-6003089944e4",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": []
         }
     ]
