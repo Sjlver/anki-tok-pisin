@@ -54,7 +54,7 @@
     "extendNew": 50,
     "extendRev": 50,
     "media_files": [],
-    "mid": 52683991,
+    "mid": "1517773687864",
     "name": "Tok Pisin",
     "note_models": [
         {
@@ -744,10 +744,10 @@
             "data": "",
             "fields": [
                 "bilong mipela",
-                "our (exclusive)",
+                "our",
                 "Em i no strong bilong mipela.",
                 "",
-                ""
+                "exclusive"
             ],
             "flags": 0,
             "guid": "j&8Mn[^xgI",
@@ -1867,7 +1867,7 @@
             "fields": [
                 "bodi",
                 "body",
-                "Tasol bodi em i no olsem.",
+                "Dispela kaikai bai strongim bodi bilong yu.",
                 "",
                 ""
             ],
@@ -4569,9 +4569,9 @@
             "data": "",
             "fields": [
                 "yet",
-                "already | still (adv) | yet",
-                "Na em yet i save em i tok tru.",
-                "",
+                "(one/her/him) self",
+                "Em yet i bin mekim dispela bilum.",
+                "adjective",
                 ""
             ],
             "flags": 0,
@@ -4671,10 +4671,10 @@
             "data": "",
             "fields": [
                 "buai",
-                "areca nut, betelnut",
+                "betelnut",
                 "",
                 "",
-                ""
+                "also: areca nut"
             ],
             "flags": 0,
             "guid": "rixXI6Uo2C",
@@ -4807,10 +4807,10 @@
             "data": "",
             "fields": [
                 "bel",
-                "belly/ part with feelings",
+                "belly",
                 "Ol i tok olsem na ol i bel nogut long em.",
                 "",
-                ""
+                "where one's feelings are"
             ],
             "flags": 0,
             "guid": "AYol7$i^1R",
@@ -4827,7 +4827,7 @@
                 "beside",
                 "Na tupela man i sindaun i stap arere long rot.",
                 "",
-                ""
+                "also: next to"
             ],
             "flags": 0,
             "guid": "N|gZFG&G3G",
@@ -4892,10 +4892,10 @@
             "data": "",
             "fields": [
                 "bokis",
-                "box (n) | genitals | female genitals | case, suitcases",
+                "box",
                 "Na em i lukim ol manmeri i kam putim ol ofa long bokis.",
                 "",
-                ""
+                "also: case, suitcase.<br>also: female genitals"
             ],
             "flags": 0,
             "guid": "F<<_Axeqtt",
@@ -5351,7 +5351,7 @@
             "data": "",
             "fields": [
                 "kamaut",
-                "come out",
+                "to come out",
                 "Bai oli givim ol taim long kamaut ol yet, na lusim American Samoa ol yet.",
                 "",
                 ""
@@ -5504,10 +5504,10 @@
             "data": "",
             "fields": [
                 "kukim",
-                "cook | bake | burn",
-                "Na ol i kukim ples bilong ol.",
+                "to cook",
+                "Ol i kukim kaukau long paia.",
                 "",
-                ""
+                "also: to bake, to burn"
             ],
             "flags": 0,
             "guid": "zo`J~]&[ja",
@@ -5777,7 +5777,7 @@
             "fields": [
                 "draiva",
                 "driver",
-                "Em i tok, ol soldia blong Guinea i bin tokim ol draiva blong ol trak blong em, olsem oli mas go bek.",
+                "Ol soldia blong Guinea i bin tokim ol draiva blong ol trak blong em, olsem oli mas go bek.",
                 "",
                 ""
             ],
@@ -6422,10 +6422,10 @@
             "data": "",
             "fields": [
                 "wantok",
-                "friend | mate, close friend",
+                "friend",
                 "Em i wantok bilong yupela na em i wokman bilong Krais Jisas.",
                 "",
-                ""
+                "also: mate, close friend"
             ],
             "flags": 0,
             "guid": "G!/*f5)_![",
@@ -6982,10 +6982,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hailens | hallans",
+                "hailens",
                 "highlands",
                 "",
-                "",
+                "also: hallans",
                 ""
             ],
             "flags": 0,
@@ -7084,8 +7084,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "asples bilong mi",
-                "<br>my home town",
+                "asples",
+                "<br>home town",
                 "",
                 "",
                 ""
@@ -7747,10 +7747,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "luk | lukluk",
-                "look",
+                "luk",
+                "to look",
                 "",
-                "",
+                "also: lukluk",
                 ""
             ],
             "flags": 0,
@@ -8003,10 +8003,10 @@
             "data": "",
             "fields": [
                 "mi",
-                "me | I",
+                "me",
                 "Na i no mi tasol.",
                 "",
-                ""
+                "also: I"
             ],
             "flags": 0,
             "guid": "cO;6{lzKZ<",
@@ -11097,10 +11097,10 @@
             "data": "",
             "fields": [
                 "kek",
-                "cake | pastry",
+                "cake",
                 "",
                 "",
-                ""
+                "also: pastry"
             ],
             "flags": 0,
             "guid": "D=i}zvvmeD",
@@ -11114,7 +11114,7 @@
             "data": "",
             "fields": [
                 "singautim",
-                "call (something or someone)",
+                "to call (something or someone)",
                 "Em i singautim ol i kam lukim em.",
                 "",
                 ""
@@ -11130,10 +11130,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ring long telipon/ mobail/ digicel",
-                "call (telephone)",
+                "ring long telipon",
+                "to call (on the phone)",
                 "",
-                "",
+                "also: ring long mobail/Digicel",
                 ""
             ],
             "flags": 0,
@@ -11148,10 +11148,10 @@
             "data": "",
             "fields": [
                 "singaut",
-                "call out",
+                "to call out",
                 "Ol i pret na ol i singaut nogut.",
                 "",
-                ""
+                "also: to shout"
             ],
             "flags": 0,
             "guid": "j@~m#6*-c$",
@@ -11164,9 +11164,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nem bilong . . . i",
+                "nem bilong ... i",
                 "... is called",
-                "",
+                "Nem bilong dispela ples em i Asaroka.",
                 "",
                 ""
             ],
@@ -11182,7 +11182,7 @@
             "data": "",
             "fields": [
                 "lukaut long",
-                "careful of, be",
+                "to be careful of",
                 "Yupela lukaut long ol man.",
                 "",
                 ""
@@ -11199,10 +11199,10 @@
             "data": "",
             "fields": [
                 "katen",
-                "carton | cotton",
+                "cotton",
                 "",
                 "",
-                ""
+                "also: cardboard"
             ],
             "flags": 0,
             "guid": "hZ.e5`KvW`",
@@ -11216,7 +11216,7 @@
             "data": "",
             "fields": [
                 "sutkes",
-                "case, suitcases",
+                "suitcase",
                 "",
                 "",
                 ""
@@ -11233,10 +11233,10 @@
             "data": "",
             "fields": [
                 "tapiok",
-                "cassava | tapioca",
+                "cassava",
                 "",
                 "",
-                ""
+                "also: tapioca"
             ],
             "flags": 0,
             "guid": "EZ8/mM/<}F",
@@ -11284,7 +11284,7 @@
             "data": "",
             "fields": [
                 "hukim pis",
-                "catch fish",
+                "to catch fish",
                 "",
                 "",
                 ""
@@ -11300,11 +11300,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "bulmakau | kau",
-                "cattle | beef",
+                "bulmakau",
+                "cow",
                 "",
-                "",
-                ""
+                "also: kau",
+                "also: cattle, beef"
             ],
             "flags": 0,
             "guid": "l8(&gq=er-",
@@ -11334,11 +11334,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sea | sia",
-                "chair | seat",
+                "sia",
+                "seat",
                 "",
-                "",
-                ""
+                "also: sea",
+                "also: chair"
             ],
             "flags": 0,
             "guid": "q7|_v8ojV|",
@@ -11352,10 +11352,10 @@
             "data": "",
             "fields": [
                 "bros",
-                "chest | brooch",
-                "Na ol i bin pasim ol let gol i raunim bros bilong ol.",
+                "chest",
+                "Ol i sori tumas na paitim bros bilong ol.",
                 "",
-                ""
+                "also: brooch"
             ],
             "flags": 0,
             "guid": "scE9%cN%D@",
@@ -11369,10 +11369,10 @@
             "data": "",
             "fields": [
                 "kakaruk",
-                "chook, fowl | fowl | chicken",
-                "Em i tok pinis, na wantu kakaruk i krai.",
+                "chicken",
+                "Niu: 2-minit noodles wantaim moa kakaruk teist.",
                 "",
-                ""
+                "also: fowl, chook"
             ],
             "flags": 0,
             "guid": "y}O;dOW(Pv",
@@ -11386,7 +11386,7 @@
             "data": "",
             "fields": [
                 "kisim long laik",
-                "choose",
+                "to choose",
                 "",
                 "",
                 ""
@@ -11403,10 +11403,10 @@
             "data": "",
             "fields": [
                 "ples klia",
-                "clearing | empty space",
+                "clearing",
                 "Ol i no laik bai pasin bilong ol i kamap ples klia.",
                 "",
-                ""
+                "also: public space"
             ],
             "flags": 0,
             "guid": "Aqf~9H@h-k",
@@ -11420,10 +11420,10 @@
             "data": "",
             "fields": [
                 "kilok",
-                "clock | heart",
+                "clock",
                 "Nambatu i bin pairap long nain kilok long moning insait long ol eria i gat planti stua long en.",
                 "",
-                ""
+                "also: heart"
             ],
             "flags": 0,
             "guid": "P,,O`jxoEJ",
@@ -12015,10 +12015,10 @@
             "data": "",
             "fields": [
                 "biknait",
-                "dead of night | midnight",
+                "midnight",
                 "Olsem na em i pulim tok i go i go inap long biknait.",
                 "",
-                ""
+                "also: dead of night"
             ],
             "flags": 0,
             "guid": "AO[a2&Q*1$",
@@ -12066,10 +12066,10 @@
             "data": "",
             "fields": [
                 "rabisim",
-                "denigrate, make fun of",
+                "denigrate",
                 "Yu no ken larim ol man i rabisim tok bilong yu.",
                 "",
-                ""
+                "also: to make fun of, to ridicule"
             ],
             "flags": 0,
             "guid": "m&AY=^^t7s",
