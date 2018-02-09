@@ -134,7 +134,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<p class=\"front\">{{Tok Pisin}}</p>\n\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n\n<blockquote class=\"example\">{{Example}}</blockquote>\n\n<hr id=answer>\n\n<p class=\"back\">{{English}}</p>\n\n<p class=\"remarks\">{{English Remarks}}</p>\n",
+                    "afmt": "<p class=\"front\">{{Tok Pisin}}</p>\n\n{{#Tok Pisin Remarks}}\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n{{/Tok Pisin Remarks}}\n\n{{#Example}}\n<blockquote class=\"example\">{{Example}}</blockquote>\n{{/Example}}\n\n<hr id=answer>\n\n<p class=\"back\">{{English}}</p>\n\n{{#English Remarks}}\n<p class=\"remarks\">{{English Remarks}}</p>\n{{/English Remarks}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -142,10 +142,10 @@
                     "did": null,
                     "name": "Forward",
                     "ord": 0,
-                    "qfmt": "<p class=\"front\">{{Tok Pisin}}</p>\n\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n\n<blockquote class=\"example\">{{Example}}</blockquote>\n"
+                    "qfmt": "<p class=\"front\">{{Tok Pisin}}</p>\n\n{{#Tok Pisin Remarks}}\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n{{/Tok Pisin Remarks}}\n\n{{#Example}}\n<blockquote class=\"example\">{{Example}}</blockquote>\n{{/Example}}\n"
                 },
                 {
-                    "afmt": "<p class=\"back\">{{English}}</p>\n\n<p class=\"remarks\">{{English Remarks}}</p>\n\n<hr id=answer>\n\n<p class=\"front\">{{Tok Pisin}}</p>\n\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n\n<blockquote class=\"example\">{{Example}}</blockquote>",
+                    "afmt": "<p class=\"back\">{{English}}</p>\n\n{{#English Remarks}}\n<p class=\"remarks\">{{English Remarks}}</p>\n{{/English Remarks}}\n\n<hr id=answer>\n\n<p class=\"front\">{{Tok Pisin}}</p>\n\n{{#Tok Pisin Remarks}}\n<p class=\"remarks\">{{Tok Pisin Remarks}}</p>\n{{/Tok Pisin Remarks}}\n\n{{#Example}}\n<blockquote class=\"example\">{{Example}}</blockquote>\n{{/Example}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -153,7 +153,7 @@
                     "did": null,
                     "name": "Backward",
                     "ord": 1,
-                    "qfmt": "<p class=\"back\">{{English}}</p>\n\n<p class=\"remarks\">{{English Remarks}}</p>"
+                    "qfmt": "<p class=\"back\">{{English}}</p>\n\n{{#English Remarks}}\n<p class=\"remarks\">{{English Remarks}}</p>\n{{/English Remarks}}"
                 }
             ],
             "type": 0,
@@ -3907,7 +3907,7 @@
             "fields": [
                 "sem",
                 "shame",
-                "Ol man i bilip long em, ol bai i no inap kisim sem.”",
+                "Ol man i bilip long em, ol bai i no inap kisim sem.",
                 "",
                 ""
             ],
@@ -4773,10 +4773,10 @@
             "data": "",
             "fields": [
                 "kirapim",
-                "begin | get someone up from bed | establish | found, establish | open (new business)",
+                "to raise up",
                 "Na Jisas i go long em, na i holim han bilong en na i kirapim em.",
                 "",
-                ""
+                "also: to get someone up from bed; to begin; to found, to establish, to open a business"
             ],
             "flags": 0,
             "guid": "f0Wk:zs?UO",
@@ -4858,10 +4858,10 @@
             "data": "",
             "fields": [
                 "kalap long PMV",
-                "board a PMV",
+                "to board a PMV",
                 "",
                 "",
-                ""
+                "PMV = public motor vehicle"
             ],
             "flags": 0,
             "guid": "k#/Fg2%.ll",
@@ -8070,10 +8070,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Manmeri / pipel",
-                "men &amp; women",
+                "manmeri",
+                "people",
                 "",
-                "",
+                "also: pipel",
                 ""
             ],
             "flags": 0,
@@ -8206,10 +8206,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Wannem / nemsek",
+                "wannem",
                 "namesake",
                 "",
-                "",
+                "also: nemsek",
                 ""
             ],
             "flags": 0,
@@ -11455,9 +11455,9 @@
             "fields": [
                 "koki",
                 "cockatoo",
-                "Bai oli holim by-elekson long East New Britain, blong kisim ples blong Alois Koki, husat ibin dai, long mun igo pinis.",
+                "Koki em i wanpela kain pisin.",
                 "",
-                ""
+                "i.e.: a type of parrot"
             ],
             "flags": 0,
             "guid": "E&+#c+f^<z",
@@ -11504,10 +11504,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "susu o gris bilong kokonas",
+                "gris bilong kokonas",
                 "coconut cream",
                 "",
-                "",
+                "also: susu bilong kokonas",
                 ""
             ],
             "flags": 0,
@@ -11522,7 +11522,7 @@
             "data": "",
             "fields": [
                 "wara bilong kokonas",
-                "coconut milk, coconut water",
+                "coconut water",
                 "",
                 "",
                 ""
@@ -11557,7 +11557,7 @@
             "fields": [
                 "kopi",
                 "coffee",
-                "Fiji nesanel redio i tok em i kisim pinis kopi blong wanpela pepa em ol sapota blong Speight i bin givim long kot, na i askim bai oli mas larim kot blong tumbuna long lukluk long dispela kot kes.",
+                "Yu laikim kopi wantaim suga?",
                 "",
                 ""
             ],
@@ -11573,10 +11573,10 @@
             "data": "",
             "fields": [
                 "taim bilong kol",
-                "cold season (winter)",
+                "cold season",
                 "Em i save kamap long taim bilong kol.",
                 "",
-                ""
+                "also: winter"
             ],
             "flags": 0,
             "guid": "P}wQ$yBMY",
@@ -11590,7 +11590,7 @@
             "data": "",
             "fields": [
                 "haitim",
-                "conceal",
+                "to conceal",
                 "Em i tokaut klia na i no haitim tok.",
                 "",
                 ""
@@ -11607,10 +11607,10 @@
             "data": "",
             "fields": [
                 "kisim bel",
-                "conceive (a child)",
-                "Pol i tok olsem ol manmeri i pas tru wantaim Krais, ol i save kisim bel isi bilong God, na ol i save amamas moa yet.",
+                "to conceive",
+                "Adam i slip wantaim Eva, na em i kisim bel.",
                 "",
-                ""
+                "... a child"
             ],
             "flags": 0,
             "guid": "L.s04-+P%+",
@@ -11627,7 +11627,7 @@
                 "copra",
                 "17-tausen pipol i save stap long ol ailan bilong Marshall Islands na kopra em i wanpela rot na bisnis tasol i stap long ol i kisim moni.",
                 "",
-                ""
+                "i.e.: dried coconut kernels, from which oil is obtained."
             ],
             "flags": 0,
             "guid": "K+;{@t!r+;",
@@ -11642,7 +11642,7 @@
             "fields": [
                 "kona",
                 "corner",
-                "4-pela kona bilong en na i slekim i kam daun long mi.",
+                "Dispela haus i gat 4-pela kona.",
                 "",
                 ""
             ],
@@ -11658,7 +11658,7 @@
             "data": "",
             "fields": [
                 "kostim",
-                "cost",
+                "to cost",
                 "Rini i tok gavman i wok long kisim yet planti na planti moa claim yet i kam, em bai i kostim nau faiv-millin dola.",
                 "",
                 ""
@@ -11675,10 +11675,10 @@
             "data": "",
             "fields": [
                 "kaunim",
-                "count (vb) | spell",
+                "to count",
                 "Na ol i no kaunim ol meri na pikinini.",
                 "",
-                ""
+                "also: to spell"
             ],
             "flags": 0,
             "guid": "n*?A`Qcc!%",
@@ -11692,10 +11692,10 @@
             "data": "",
             "fields": [
                 "kantri",
-                "country (nation)",
+                "country",
                 "Na bihain em i kamap long kantri Grik.",
                 "",
-                ""
+                "also: nation"
             ],
             "flags": 0,
             "guid": "kFw$4g5coP",
@@ -11709,7 +11709,7 @@
             "data": "",
             "fields": [
                 "karamapim",
-                "cover (vb)",
+                "to cover",
                 "Na ol rop i gat nil i kamap na i karamapim wit.",
                 "",
                 ""
