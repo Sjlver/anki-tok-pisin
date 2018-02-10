@@ -5027,23 +5027,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "inap long",
-                "until",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "lR85];ja$x",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "tin",
                 "can",
                 "Richard Dinnen i ripot olsem oli bin wokim ol despela tin pis sikispela yiar igo pinis na oli nogut nau long pipal i kaikai.",
@@ -9379,23 +9362,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "wantu",
-                "suddenly",
-                "Na em i tok, “Sik bilong mi em i pinis wantu tasol.”",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Jr>rEG.z:J",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "blut",
                 "blood",
                 "Em i save kisim blut na i go insait.",
@@ -11776,11 +11742,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mangalim/ aigris",
-                "covet, be jealous of",
+                "mangalim",
+                "to covet",
                 "",
-                "",
-                ""
+                "also: aigris",
+                "also: to be jealous of"
             ],
             "flags": 0,
             "guid": "p&x8d{tR={",
@@ -23064,6 +23030,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "wantu",
+                "suddenly",
+                "Na em i tok, “Sik bilong mi em i pinis wantu tasol.”",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jr>rEG.z:J",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "pitpit | stik suga",
                 "sugarcane",
                 "",
@@ -30105,6 +30088,23 @@
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "inap long",
+                "until",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lR85];ja$x",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": [
+                "2"
             ]
         }
     ]
