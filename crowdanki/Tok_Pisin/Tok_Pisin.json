@@ -29456,10 +29456,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "senka(r)",
+                "senka",
                 "tracked vehicle",
                 "",
-                "",
+                "also: senkar",
                 ""
             ],
             "flags": 0,
@@ -29474,10 +29474,10 @@
             "data": "",
             "fields": [
                 "tren",
-                "train | railway",
+                "train",
                 "",
                 "",
-                ""
+                "also: railway"
             ],
             "flags": 0,
             "guid": "z.uZ@pwjc.",
@@ -29596,7 +29596,7 @@
                 "tyre",
                 "",
                 "",
-                ""
+                "without the wheel"
             ],
             "flags": 0,
             "guid": "HC2;n%6?~S",
@@ -29610,10 +29610,10 @@
             "data": "",
             "fields": [
                 "taia",
-                "tyre | wheel (with tyre on)",
+                "tyre",
                 "",
                 "",
-                ""
+                "also: wheel with tyre on it"
             ],
             "flags": 0,
             "guid": "L-9/{ic<Ja",
@@ -29661,10 +29661,10 @@
             "data": "",
             "fields": [
                 "mambu bilong blut",
-                "vein | artery",
+                "vein",
                 "",
                 "",
-                ""
+                "also: artery"
             ],
             "flags": 0,
             "guid": "bM!YT`V#i}",
@@ -29678,10 +29678,10 @@
             "data": "",
             "fields": [
                 "veranda",
-                "veranda, patio",
+                "veranda",
                 "Wanpela man i stap long veranda, em i gat sik i stap inap long 38 yia.",
                 "",
-                ""
+                "also: patio"
             ],
             "flags": 0,
             "guid": "ror:6v)9!g",
@@ -29713,7 +29713,7 @@
             "fields": [
                 "vot",
                 "vote",
-                "Gore i wok long go-pas long vot.",
+                "Mr. Gore i wok long go-pas long vot.",
                 "",
                 ""
             ],
@@ -29780,10 +29780,10 @@
             "data": "",
             "fields": [
                 "masta",
-                "white adult male (term originated in colonial times) | boss",
+                "white adult male",
                 "",
                 "",
-                ""
+                "a term from colonial times. also: boss"
             ],
             "flags": 0,
             "guid": "b)_HW;3,OE",
@@ -29814,10 +29814,10 @@
             "data": "",
             "fields": [
                 "tiktik",
-                "wild sugarcane | reeds",
+                "wild sugarcane",
                 "",
                 "",
-                ""
+                "also: reeds"
             ],
             "flags": 0,
             "guid": ")1b]q@N9!",
@@ -29831,7 +29831,7 @@
             "data": "",
             "fields": [
                 "wokim glas i go antap",
-                "wind up a window",
+                "to wind up a window",
                 "",
                 "",
                 ""
@@ -29882,10 +29882,10 @@
             "data": "",
             "fields": [
                 "misis",
-                "woman, wife (European)",
+                "woman",
                 "Wanpela kot long China i bin givim ruling olsem foapela pipal i mas indai, long wanem oli bin halivim long ronim wanpela raskel laen oa gang husat i bin kidnapim tu-handret-na-foapela-ten meri blong salim igo long ol man bai i kamap misis blong ol oa long kamap pamuk tasol.",
                 "",
-                ""
+                "Particularly from Europe.<br>also: wife, concubine"
             ],
             "flags": 0,
             "guid": "eW!}LdWYfx",
@@ -29899,10 +29899,10 @@
             "data": "",
             "fields": [
                 "faul",
-                "confused, to confuse",
+                "to be confused",
                 "",
                 "",
-                ""
+                "also: to confuse"
             ],
             "flags": 0,
             "guid": "DDziPcM3R#",
@@ -29949,7 +29949,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "blackskin",
+                "blakskin",
                 "dark-skinned person",
                 "",
                 "",
@@ -29983,11 +29983,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Givim siksti",
-                "Run, go quickly",
+                "givim siksti",
+                "to hurry",
                 "",
                 "",
-                ""
+                "also: to run, to go quickly"
             ],
             "flags": 0,
             "guid": "bCN;3",
@@ -29998,11 +29998,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Kru pamkin ",
-                "Pumpkin shoots (a type of vegetable) ",
+                "kru pamkin",
+                "pumpkin shoots",
                 "",
                 "",
-                ""
+                "a type of vegetable"
             ],
             "flags": 0,
             "guid": "&#b2G",
@@ -30013,11 +30013,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sruk",
-                "Make space (move to the side) ",
+                "sruk",
+                "to make space",
+                "Sruk! Givim spes.",
                 "",
-                "",
-                ""
+                "also: to move to the side"
             ],
             "flags": 0,
             "guid": ";kH4I",
