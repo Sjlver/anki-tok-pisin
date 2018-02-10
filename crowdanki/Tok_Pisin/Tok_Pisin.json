@@ -829,7 +829,7 @@
             "data": "",
             "fields": [
                 "helpim",
-                "help",
+                "to help",
                 "",
                 "also: halivim",
                 ""
@@ -846,7 +846,7 @@
             "data": "",
             "fields": [
                 "tanim",
-                "turn",
+                "to turn",
                 "Em i tok olsem, na em i tanim na i lukim Jisas i sanap i stap.",
                 "",
                 ""
@@ -863,7 +863,7 @@
             "data": "",
             "fields": [
                 "min",
-                "mean",
+                "to mean",
                 "Dispela tok ino min wanpela samting.",
                 "",
                 ""
@@ -914,9 +914,9 @@
             "data": "",
             "fields": [
                 "stori",
-                "tell",
+                "story",
                 "",
-                "also: tokim",
+                "(substantive)",
                 ""
             ],
             "flags": 0,
@@ -948,7 +948,7 @@
             "data": "",
             "fields": [
                 "laik",
-                "want",
+                "to want",
                 "Ol i laik bai em i kam long ol.",
                 "",
                 ""
@@ -965,7 +965,7 @@
             "data": "",
             "fields": [
                 "pilai",
-                "play",
+                "to play",
                 "Ol i sindaun long kaikai na dring, na bihain ol man i go pilai volibal.",
                 "",
                 ""
@@ -982,7 +982,7 @@
             "data": "",
             "fields": [
                 "putim",
-                "put",
+                "to put",
                 "Ol i laik bai em i putim han long ol.",
                 "",
                 ""
@@ -1016,7 +1016,7 @@
             "data": "",
             "fields": [
                 "ridim",
-                "read",
+                "to read",
                 "",
                 "also: ritim",
                 ""
@@ -1033,7 +1033,7 @@
             "data": "",
             "fields": [
                 "spelim",
-                "spell",
+                "to spell",
                 "Inap yu spelim nem bilong yu long mi?",
                 "",
                 ""
@@ -1067,7 +1067,7 @@
             "data": "",
             "fields": [
                 "mas",
-                "must",
+                "to must",
                 "Nau ol i mas wok.",
                 "",
                 ""
@@ -1101,7 +1101,7 @@
             "data": "",
             "fields": [
                 "askim",
-                "ask",
+                "to ask",
                 "Yupela i mas askim em.",
                 "",
                 ""
@@ -1118,7 +1118,7 @@
             "data": "",
             "fields": [
                 "nidim",
-                "need",
+                "to need",
                 "Em i tok, ol bai nidim halivim bilong polis long mekim dispela samting i wok.",
                 "",
                 ""
@@ -1169,7 +1169,7 @@
             "data": "",
             "fields": [
                 "bekim",
-                "answer",
+                "to answer",
                 "Na ol i bekim tok olsem, “Em i gat rong, na em i mas i dai.”",
                 "",
                 ""
@@ -1203,7 +1203,7 @@
             "data": "",
             "fields": [
                 "gro",
-                "grow",
+                "to grow",
                 "Long taim bilong san yu ken lukim ol kaukau i gro hariap.",
                 "",
                 ""
@@ -1220,7 +1220,7 @@
             "data": "",
             "fields": [
                 "stadim",
-                "study",
+                "to study",
                 "Pikinini bilong mi i go long taun long stadim wok tisa.",
                 "",
                 ""
@@ -1373,9 +1373,9 @@
             "data": "",
             "fields": [
                 "stori",
-                "story, tell",
+                "to tell",
                 "Na ol i stori long ol pik tu.",
-                "",
+                "(verb)",
                 ""
             ],
             "flags": 0,
@@ -1423,11 +1423,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Hankais",
-                "left (direction) ",
+                "hankais",
+                "left",
                 "",
                 "also: lephan",
-                ""
+                "(direction)"
             ],
             "flags": 0,
             "guid": "b(M!^gF7xo",
@@ -1441,7 +1441,7 @@
             "data": "",
             "fields": [
                 "ran",
-                "run",
+                "to run",
                 "",
                 "also: ron",
                 ""
@@ -1492,10 +1492,10 @@
             "data": "",
             "fields": [
                 "i op i stap",
-                "open (adjective) ",
+                "open",
                 "",
                 "also: op",
-                ""
+                "(adjective)"
             ],
             "flags": 0,
             "guid": "J7D.3[_STG",
@@ -1545,7 +1545,7 @@
                 "singsing",
                 "music",
                 "",
-                "also: musik",
+                "(substantive), also: musik",
                 ""
             ],
             "flags": 0,
@@ -5147,10 +5147,10 @@
             "data": "",
             "fields": [
                 "tanim mani",
-                "change money (from one currency to another)",
+                "change money",
                 "",
                 "",
-                ""
+                "(from one currency to another)"
             ],
             "flags": 0,
             "guid": "fhX)8p$4E!",
@@ -5180,10 +5180,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "katim long akis/tamiok",
+                "katim long akis",
                 "chop",
                 "",
-                "",
+                "also: katim long tamiok",
                 ""
             ],
             "flags": 0,
@@ -5232,7 +5232,7 @@
             "data": "",
             "fields": [
                 "klinim",
-                "clean (vb)",
+                "to clean",
                 "Em i bin promis tu long klinim aut ol pasin bilong pait na kilim man.",
                 "",
                 ""
@@ -5266,10 +5266,10 @@
             "data": "",
             "fields": [
                 "klia",
-                "clear | empty",
+                "clear",
                 "Yupela tu i no klia yet?",
                 "",
-                ""
+                "also: empty"
             ],
             "flags": 0,
             "guid": "zV_H5HTj&(",
@@ -5334,8 +5334,8 @@
             "data": "",
             "fields": [
                 "kus",
-                "cold, have a | have a cold",
-                "Shirley Escalante i ripot ikam long Manila olsem, Joseph Estrada, husat oli bin lukautim olsem kalabus long haus blong em yet, tede oli bin larim em i go long stap long haus sik blong kisim marasin blong kus blong em.",
+                "to have a cold",
+                "Em i go long stap long haus sik bilong kisim marasin bilong kus bilong em.",
                 "",
                 ""
             ],
@@ -5385,10 +5385,10 @@
             "data": "",
             "fields": [
                 "kamap",
-                "come up | become | arrive",
+                "to arrive",
                 "Em i kamap long ol olsem.",
                 "",
-                ""
+                "also: to become"
             ],
             "flags": 0,
             "guid": "u:CaLZr~M8",
@@ -5401,7 +5401,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Payback / kompensesen",
+                "kompensesen",
                 "compensation paid for a wrongdoing, but in reprisal more than revenge",
                 "",
                 "",
@@ -5419,10 +5419,10 @@
             "data": "",
             "fields": [
                 "olgeta",
-                "completely | all | everybody",
+                "everybody",
                 "Bai yumi olgeta i no i dai.",
                 "",
-                ""
+                "also: completely, all"
             ],
             "flags": 0,
             "guid": "m/K3b4PT!O",
@@ -5436,9 +5436,9 @@
             "data": "",
             "fields": [
                 "singsing",
-                "concert | dance and/or sing | festival | sing",
+                "to dance and/or to sing",
                 "Na bikpela lain manmeri ol i bihainim em, na planti meri ol i krai na singsing sori long em.",
-                "",
+                "(verb)",
                 ""
             ],
             "flags": 0,
