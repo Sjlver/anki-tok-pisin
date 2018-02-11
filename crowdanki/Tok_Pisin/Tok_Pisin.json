@@ -27144,28 +27144,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "oloboi  | oloman",
-                "gee!",
+                "lam",
+                "bulb",
                 "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "bSo$`?y:WM",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Golo / lam",
-                "globe, bulb",
-                "",
-                "",
-                ""
+                "also: golo",
+                "also: globe"
             ],
             "flags": 0,
             "guid": "vOjxE3LvAJ",
@@ -27299,7 +27282,7 @@
             "fields": [
                 "independens",
                 "independence",
-                "Mr Ramos Horta i tok, em ibin senisim tingting bilong em, bihain long em i luksave long halivim em nupela gavman bilong Indonesia i givim long East Timor na ol wok em i kamap nau long kantri i kisim independens.",
+                "Mr Ramos Horta i laik halivim nupela gavman bilong Indonesia nau long kantri i kisim independens.",
                 "",
                 ""
             ],
@@ -27315,30 +27298,13 @@
             "data": "",
             "fields": [
                 "motu",
-                "indigenous people of the Port Moresby area; language spoken by these people; one of the three nation",
+                "indigenous people of the Port Moresby area",
                 "",
                 "",
-                ""
+                "also: language spoken by these people"
             ],
             "flags": 0,
             "guid": "ugVg)Uz{P#",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "intaviua",
-                "interviewer",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "to6tUQoZ@_",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "5"
@@ -27416,10 +27382,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "loia | loman | loya | saveman long lo",
+                "saveman long lo",
                 "lawyer",
                 "",
-                "",
+                "also: loia, loman",
                 ""
             ],
             "flags": 0,
@@ -27433,10 +27399,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lip | lip bilong diwai",
+                "lip",
                 "leaf money from Milne Bay province",
                 "",
-                "",
+                "also: lip bilong diwai",
                 ""
             ],
             "flags": 0,
@@ -27468,10 +27434,10 @@
             "data": "",
             "fields": [
                 "loliwara",
-                "lemonade | softdrink",
+                "lemonade",
                 "",
                 "",
-                ""
+                "also: softdrink"
             ],
             "flags": 0,
             "guid": "O}8u<n|5nG",
@@ -27501,27 +27467,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "laita",
-                "lighter (cigarette)",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "lnJvCWZU)V",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "sigaret laita",
-                "lighter (flint)",
+                "lighter",
                 "",
-                "",
+                "also: laita",
                 ""
             ],
             "flags": 0,
@@ -27553,10 +27502,10 @@
             "data": "",
             "fields": [
                 "lesbaga",
-                "loafer, lazy man",
+                "loafer",
                 "",
                 "",
-                ""
+                "lazy man"
             ],
             "flags": 0,
             "guid": "x=RdXcwjY(",
@@ -27571,7 +27520,7 @@
             "fields": [
                 "lon",
                 "loan",
-                "Mr Khan i bin tok, dispela bisnis, em i stap pinis inap lon 120 yiar, imas tok oraet long sanis, olsem em iken nap gohet mekim wok blong em.",
+                "Ol i no save givim lon long mipela long stua.",
                 "",
                 ""
             ],
@@ -27587,7 +27536,7 @@
             "data": "",
             "fields": [
                 "loli",
-                "lolly, candy",
+                "candy",
                 "",
                 "",
                 ""
@@ -27620,8 +27569,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "longsok(s)",
-                "long walk sock(s)",
+                "longsok",
+                "long walk socks",
                 "",
                 "",
                 ""
@@ -27638,10 +27587,10 @@
             "data": "",
             "fields": [
                 "laki",
-                "lucky (card game)",
+                "lucky",
                 "Chris Clark i tok, em i bin laki na nogat man i bin kisim bikpela bagarap tumas long dispela tupela bom.",
                 "",
-                ""
+                "also: card game"
             ],
             "flags": 0,
             "guid": "dT}A/N<ESg",
@@ -27654,10 +27603,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "majik/ puripuri",
+                "majik",
                 "magic",
                 "",
-                "",
+                "also: sanguma",
                 ""
             ],
             "flags": 0,
@@ -27689,30 +27638,13 @@
             "data": "",
             "fields": [
                 "holim skin",
-                "make love to",
+                "to make love to",
                 "Holim skin bilong mi, na lukim.",
                 "",
                 ""
             ],
             "flags": 0,
             "guid": "gqTt#]/R=V",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "me",
-                "may | goat",
-                "Mandela long bringim freedom igo long South africa na tok longem olsem em wanpela biknem man pastaem long em i bin kamap statement long taim blong u me.",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "w&bEuQ+665",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "5"
@@ -27739,10 +27671,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "i lukim meri | mun i kilim / lukim mun",
+                "lukim mun",
                 "menstruating",
                 "",
-                "",
+                "also: mun i kilim",
                 ""
             ],
             "flags": 0,
@@ -27943,10 +27875,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "wanpela sait long su | wanpela su",
+                "wanpela sait long su",
                 "one shoe",
                 "",
-                "",
+                "also: wanpela su",
                 ""
             ],
             "flags": 0,
@@ -28029,7 +27961,7 @@
             "data": "",
             "fields": [
                 "pasim kar",
-                "park (car) (vb)",
+                "to park the car",
                 "",
                 "",
                 ""
@@ -28046,7 +27978,7 @@
             "data": "",
             "fields": [
                 "gaden bilas",
-                "park (n)",
+                "park",
                 "",
                 "",
                 ""
@@ -28082,7 +28014,7 @@
                 "pede",
                 "payday",
                 "",
-                "",
+                "also: potnait, fotnait",
                 ""
             ],
             "flags": 0,
@@ -28113,10 +28045,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lukstilman | man bilong luklukstil",
+                "lukstilman",
                 "peeping Tom",
                 "",
-                "",
+                "also: man bilong luklukstil",
                 ""
             ],
             "flags": 0,
@@ -28166,7 +28098,7 @@
             "fields": [
                 "pai",
                 "pie",
-                "Pai ia, namel long ol Malay na Indian pipal, i bin stat long wik igo pinis, bihaen long ol pikinini husat i bin wok long pilai wantaem ol katapal i bin brukim galas blong wanpela kar.",
+                "Ol pikinini Amerika save kaikai pai long moning.",
                 "",
                 ""
             ],
@@ -28183,7 +28115,7 @@
             "fields": [
                 "pailat",
                 "pilot",
-                "Na Pailat i lusim em i go.",
+                "Ol pailat bilong MAF i helpim ol manmeri long bus. Ol i bringim ol kago i kam.",
                 "",
                 ""
             ],
@@ -28249,10 +28181,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "malagan | malangan",
-                "practice of making totemic figures (also called malangans) to honor the dead",
+                "malagan",
+                "practice of making totemic figures (also called malagans) to honor the dead",
                 "",
-                "",
+                "also: malangan",
                 ""
             ],
             "flags": 0,
@@ -28301,10 +28233,10 @@
             "data": "",
             "fields": [
                 "ainim",
-                "press (clothes)",
+                "to iron",
                 "",
                 "",
-                ""
+                "clothes"
             ],
             "flags": 0,
             "guid": "q9(GN|U~zB",
@@ -28317,10 +28249,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "koropela | propela",
+                "propela",
                 "propeller",
                 "",
-                "",
+                "also: koropela",
                 ""
             ],
             "flags": 0,
@@ -28369,10 +28301,10 @@
             "data": "",
             "fields": [
                 "hap tok",
-                "quotation, statement",
+                "quotation",
                 "Dispela hap tok em mi yet mi raitim.",
                 "",
-                ""
+                "also: statement"
             ],
             "flags": 0,
             "guid": "zQvf.hz*jm",
@@ -28403,10 +28335,10 @@
             "data": "",
             "fields": [
                 "wailis",
-                "radio | wireless | telegram",
+                "radio",
                 "",
                 "",
-                ""
+                "also: wireless, telegram"
             ],
             "flags": 0,
             "guid": "vJ|Chmp+x3",
@@ -28437,7 +28369,7 @@
             "data": "",
             "fields": [
                 "rekot",
-                "record (n)",
+                "record",
                 "Richard Dinnen i ripot olsem, ol toktok i kamap long ol rekot bilong moni ino kamap gut na long em ibin gat wanpela hai pawa gan.",
                 "",
                 ""
@@ -28454,7 +28386,7 @@
             "data": "",
             "fields": [
                 "katim singsing long teprikoda",
-                "record (vb) a song",
+                "to record a song",
                 "",
                 "",
                 ""
@@ -28488,10 +28420,10 @@
             "data": "",
             "fields": [
                 "bokis ais",
-                "refrigerator | ice chest, refrigerator",
+                "refrigerator",
                 "",
-                "",
-                ""
+                "also: Eski",
+                "also: ice box, Esky"
             ],
             "flags": 0,
             "guid": "I.FTiy,bF(",
@@ -28505,10 +28437,10 @@
             "data": "",
             "fields": [
                 "rejistarim pas",
-                "register (letter)",
+                "register",
                 "",
                 "",
-                ""
+                "letter"
             ],
             "flags": 0,
             "guid": "vTux]`yc%7",
@@ -28555,11 +28487,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "grile | skin pukpuk",
-                "ringworm | tinea",
+                "skin pukpuk",
+                "ringworm",
                 "",
-                "",
-                ""
+                "also: grile",
+                "tinea"
             ],
             "flags": 0,
             "guid": "O7N07r/;vT",
@@ -28608,7 +28540,7 @@
             "fields": [
                 "ram",
                 "rum",
-                "Na Hesron em i papa bilong Ram.",
+                "Ol spakman save dringim ram tumas.",
                 "",
                 ""
             ],
@@ -28726,10 +28658,10 @@
             "data": "",
             "fields": [
                 "sipsip",
-                "sheep | mutton, lamb",
+                "sheep",
                 "Na ol sipsip i save long maus bilong en, olsem na ol i bihainim em i go.",
                 "",
-                ""
+                "also: lamp"
             ],
             "flags": 0,
             "guid": "v+#|C}|dXV",
@@ -28760,10 +28692,10 @@
             "data": "",
             "fields": [
                 "bulsitman",
-                "skite, con man",
+                "skite",
                 "",
                 "",
-                ""
+                "also: con man"
             ],
             "flags": 0,
             "guid": "iekJX-v-@b",
@@ -28810,8 +28742,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sok(s)",
-                "sock(s)",
+                "sok",
+                "sock",
                 "",
                 "",
                 ""
@@ -28828,7 +28760,7 @@
             "data": "",
             "fields": [
                 "sokin",
-                "sock(s) | stockings",
+                "sock",
                 "",
                 "",
                 ""
@@ -28861,7 +28793,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "soldia | solodia",
+                "soldia",
                 "soldier",
                 "",
                 "",
@@ -28878,10 +28810,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "blaksos | soisos",
+                "blaksos",
                 "soya sauce",
                 "",
-                "",
+                "also: soisos",
                 ""
             ],
             "flags": 0,
@@ -28913,10 +28845,10 @@
             "data": "",
             "fields": [
                 "tren stesin",
-                "station (railway)",
+                "station",
                 "",
                 "",
-                ""
+                "railway"
             ],
             "flags": 0,
             "guid": "O:Zk22IbjN",
@@ -28998,7 +28930,7 @@
             "data": "",
             "fields": [
                 "man bilong samapim klos",
-                "tailor (n)",
+                "tailor",
                 "",
                 "",
                 ""
@@ -29016,7 +28948,7 @@
             "fields": [
                 "pasim bel",
                 "take contraceptives",
-                "Mipela i no pasim bel bilong mipela.",
+                "Femili planing i bikpela samting. Sapos yu pasim bel bilong yu, yu ken lukautim bodi bilong yu gut.",
                 "",
                 ""
             ],
@@ -29032,10 +28964,10 @@
             "data": "",
             "fields": [
                 "glasim",
-                "take temperature | study",
+                "study",
                 "Long wanem, taim God i skelim pasin bilong ol manmeri, em bai i glasim gut tru wok bilong yumi ol man i gat wok bilong skulim ol manmeri.",
                 "",
-                ""
+                "also: take temperature"
             ],
             "flags": 0,
             "guid": "B3|XNKQ!B<",
@@ -29066,10 +28998,10 @@
             "data": "",
             "fields": [
                 "tep",
-                "tape (recording)",
+                "tape",
                 "",
                 "",
-                ""
+                "also: recording"
             ],
             "flags": 0,
             "guid": "x}b|&kc41j",
@@ -29133,10 +29065,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "bokis wailis wantem piksa/ tivi",
+                "bokis wailis wanteim piksa",
                 "television",
                 "",
-                "",
+                "also: tivi",
                 ""
             ],
             "flags": 0,
@@ -29151,10 +29083,10 @@
             "data": "",
             "fields": [
                 "haus piksa",
-                "theatre | cinema",
+                "cinema",
                 "Digital televisen piksa bai klia moa olsem piksa yumi save lukim long haus piksa, na toktok long en tu bai klia moa yet.",
                 "",
-                ""
+                "also: theater"
             ],
             "flags": 0,
             "guid": "yJ7!;|E**h",
@@ -29170,7 +29102,7 @@
                 "tiket ofis",
                 "ticket-office",
                 "",
-                "",
+                "also: tiket opis",
                 ""
             ],
             "flags": 0,
@@ -29185,10 +29117,10 @@
             "data": "",
             "fields": [
                 "nektait",
-                "tie (n)",
+                "tie",
                 "",
                 "",
-                ""
+                "noun"
             ],
             "flags": 0,
             "guid": "GB6ui=y4Me",
@@ -29202,10 +29134,10 @@
             "data": "",
             "fields": [
                 "makao",
-                "tilapia (fish sp.)",
+                "tilapia",
                 "",
                 "",
-                ""
+                "kind of fish"
             ],
             "flags": 0,
             "guid": "h`4&3uy)%M",
@@ -29219,10 +29151,10 @@
             "data": "",
             "fields": [
                 "makau",
-                "tilapia fish (Sepik)",
+                "tilapia fish",
                 "",
-                "",
-                ""
+                "Sepik",
+                "Sepik"
             ],
             "flags": 0,
             "guid": "u29H9mV>aj",
@@ -29235,11 +29167,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dump-truck - tipa | truck",
-                "tip-truck, dump-truck",
+                "dump-trak",
+                "dump-truck",
                 "",
-                "",
-                ""
+                "also: tipa",
+                "also: tip-truck"
             ],
             "flags": 0,
             "guid": "zB^NY#PF7|",
@@ -29252,7 +29184,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "tos; tostim (bret)",
+                "tos",
                 "toast",
                 "",
                 "",
@@ -29269,48 +29201,14 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "stik tabak | tabak | tobako",
+                "stik tabak",
                 "tobacco",
                 "",
-                "",
+                "also: tabak, tobako",
                 ""
             ],
             "flags": 0,
             "guid": "sY[<<M<pei",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "haus pekpek man",
-                "toilet (men)",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "rQV0<wx$q?",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "haus pekpek meri",
-                "toilet (women)",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "pVV6XyrvKE",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "5"
@@ -29354,10 +29252,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "retpela sos | retsos",
+                "retpela sos",
                 "tomato sauce",
                 "",
-                "",
+                "also: retsos",
                 ""
             ],
             "flags": 0,
@@ -29372,10 +29270,10 @@
             "data": "",
             "fields": [
                 "sutlam",
-                "torch, headlamps",
+                "torch",
                 "",
                 "",
-                ""
+                "also: headlamp"
             ],
             "flags": 0,
             "guid": "C@@~Rq3hIb",
@@ -29388,10 +29286,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "kam man | turis",
+                "kam man",
                 "tourist",
                 "",
-                "",
+                "also: turis",
                 ""
             ],
             "flags": 0,
