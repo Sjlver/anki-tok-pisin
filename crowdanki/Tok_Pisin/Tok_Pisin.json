@@ -7493,10 +7493,10 @@
             "data": "",
             "fields": [
                 "laplap",
-                "sarong or wraparound | loincloth | cloth",
+                "sarong",
                 "Ol i no save wokim laplap.",
                 "",
-                ""
+                "cloth to wrap around the body"
             ],
             "flags": 0,
             "guid": "em2hjbQB%*",
@@ -7510,10 +7510,10 @@
             "data": "",
             "fields": [
                 "traipela",
-                "large | fat, large",
+                "large",
                 "Ol i mekim ol traipela paia i dai.",
                 "",
-                ""
+                "also: fat, huge"
             ],
             "flags": 0,
             "guid": "LHNJDVDgN]",
@@ -7527,7 +7527,7 @@
             "data": "",
             "fields": [
                 "slipim",
-                "lay (something) down",
+                "to lay ... down",
                 "Na taim ol manmeri i harim tok long Jisas i stap long wanpela hap, ol i slipim ol sikman long bet, na ol i karim ol i go long em.",
                 "",
                 ""
@@ -7544,8 +7544,8 @@
             "data": "",
             "fields": [
                 "go pas long",
-                "lead (vb)",
-                "Na ol i pret, nogut sip i ran i go pas long ples i gat ston na i bruk olgeta.",
+                "to lead",
+                "Yu go pas, na mipela bihainim yu.",
                 "",
                 ""
             ],
@@ -7561,10 +7561,10 @@
             "data": "",
             "fields": [
                 "lusim",
-                "leave (place) | set free | lose | desert (vb) | abandon | spend | forget | forgive | slacken | loosen, slacken",
+                "to leave",
                 "Na ol i lusim ol i go.",
                 "",
-                ""
+                "also: to lose; to set free, abandon; to forget, forgive; to slacken"
             ],
             "flags": 0,
             "guid": "HSP1>Vd5x(",
@@ -7578,10 +7578,10 @@
             "data": "",
             "fields": [
                 "larim",
-                "leave behind | let, allow | permit (vb) | allow | give up",
+                "to let",
                 "Yupela i mas larim ol i stap.",
                 "",
-                ""
+                "also: to allow, permit; to leave behind, give up."
             ],
             "flags": 0,
             "guid": "g!%nxUhfHD",
@@ -7595,10 +7595,10 @@
             "data": "",
             "fields": [
                 "lek",
-                "leg band | foot",
+                "leg",
                 "Olsem na ol i no brukim lek bilong em.",
                 "",
-                ""
+                "also: foot"
             ],
             "flags": 0,
             "guid": "Hq9~7,5#}z",
@@ -7612,10 +7612,10 @@
             "data": "",
             "fields": [
                 "i no hevi",
-                "light (weight)",
+                "light",
                 "Dispela plang mi putim long nek bilong yupela, em i isi long karim, na samting mi givim yupela bilong karim, em i no hevi.”",
                 "",
-                ""
+                "weight"
             ],
             "flags": 0,
             "guid": "rKM1LI[YlI",
@@ -7629,10 +7629,10 @@
             "data": "",
             "fields": [
                 "save laik",
-                "like (doing something)",
+                "to like",
                 "Olgeta arapela man i save wari long ol samting bilong ol yet, na ol i no save laik tru long mekim wok bilong Jisas Krais i go het.",
                 "",
-                ""
+                "... doing something"
             ],
             "flags": 0,
             "guid": "BmGCrgaQ5*",
@@ -7646,10 +7646,10 @@
             "data": "",
             "fields": [
                 "laikim",
-                "love | need",
+                "to love",
                 "God i laikim.",
                 "",
-                ""
+                "also: love (noun); to need"
             ],
             "flags": 0,
             "guid": "F~hFd$WcxO",
@@ -7663,10 +7663,10 @@
             "data": "",
             "fields": [
                 "harim",
-                "listen | hear",
-                "Ol bai i harim.”",
+                "to listen",
+                "Olgeta i harim tok bilong bikman bilong ples.",
                 "",
-                ""
+                "also: to hear"
             ],
             "flags": 0,
             "guid": "K,tLhO-y5Y",
@@ -7680,10 +7680,10 @@
             "data": "",
             "fields": [
                 "lewa",
-                "liver/ dear person",
+                "liver",
                 "Yupela i stap long lewa bilong mi, olsem na i stret long mi gat dispela gutpela tingting long yupela.",
                 "",
-                ""
+                "also: a dear person"
             ],
             "flags": 0,
             "guid": "j2etde9$zT",
@@ -7697,10 +7697,10 @@
             "data": "",
             "fields": [
                 "tok ples",
-                "local language | local language, first language",
-                "Na ol kain kain tok ples bai i pinis.",
+                "local language",
+                "Ol manmeri i tokim kain kain tok ples.",
                 "",
-                ""
+                "also: first language"
             ],
             "flags": 0,
             "guid": "KW`~@Gv?&U",
@@ -7714,7 +7714,7 @@
             "data": "",
             "fields": [
                 "longpela taim",
-                "long (time), long ago",
+                "long time",
                 "Na em yet i go i stap longpela taim long wanpela longwe ples.",
                 "",
                 ""
@@ -7764,11 +7764,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lukautim/ was",
+                "lukautim",
                 "watch/ care for",
                 "",
-                "",
-                ""
+                "also: was",
+                "also: to care for"
             ],
             "flags": 0,
             "guid": "N8M_Eb#HCZ",
@@ -7782,10 +7782,10 @@
             "data": "",
             "fields": [
                 "lus",
-                "lost | loose | slack",
-                "000 bilong ol i bin lus.",
+                "lost",
+                "Mani bilong ol i bin lus.",
                 "",
-                ""
+                "also: loose, slack"
             ],
             "flags": 0,
             "guid": "KR(m^@{5RG",
@@ -7799,10 +7799,10 @@
             "data": "",
             "fields": [
                 "planti",
-                "lot, a | much | many",
-                "Na em i no mekim planti taim.",
+                "a lot",
+                "Ol pikinini save kaikaim planti kaikai.",
                 "",
-                ""
+                "also: much, many"
             ],
             "flags": 0,
             "guid": "g(#5o!:%HO",
@@ -7816,10 +7816,10 @@
             "data": "",
             "fields": [
                 "daun",
-                "low | down",
+                "down",
                 "Na ol i go daun na kisim em, tasol em i dai pinis.",
                 "",
-                ""
+                "also: low"
             ],
             "flags": 0,
             "guid": "KS|6u9}Zt3",
@@ -7832,11 +7832,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "liklik kaikai or belo",
+                "liklik kaikai",
                 "lunch",
                 "",
                 "",
-                ""
+                "also: belo"
             ],
             "flags": 0,
             "guid": "QLZQs2noVJ",
@@ -7850,10 +7850,10 @@
             "data": "",
             "fields": [
                 "sanguma",
-                "magic | sorcery",
+                "magic",
                 "",
                 "",
-                ""
+                "also: sorcery"
             ],
             "flags": 0,
             "guid": "lu},VIQl<6",
@@ -7867,10 +7867,10 @@
             "data": "",
             "fields": [
                 "bikpela",
-                "main | big",
+                "big",
                 "‘Bikpela i gat wok long en.’",
                 "",
-                ""
+                "also: main; the Lord"
             ],
             "flags": 0,
             "guid": "jqF-R}fRTW",
@@ -7884,10 +7884,10 @@
             "data": "",
             "fields": [
                 "klirim",
-                "make clear, explain",
+                "to make clear",
                 "",
                 "",
-                ""
+                "also: to explain"
             ],
             "flags": 0,
             "guid": "hCk-0q7?o8",
@@ -7901,7 +7901,7 @@
             "data": "",
             "fields": [
                 "digim hul",
-                "make hole in ground",
+                "to dig a hole",
                 "",
                 "",
                 ""
@@ -7918,10 +7918,10 @@
             "data": "",
             "fields": [
                 "wokim",
-                "make | build (something) | knead bread",
+                "to make",
                 "God i bin wokim em long graun tasol.",
                 "",
-                ""
+                "also: to build, to knead bread"
             ],
             "flags": 0,
             "guid": "f}Gs]IEp-f",
@@ -7952,10 +7952,10 @@
             "data": "",
             "fields": [
                 "man",
-                "male | man | person",
+                "man",
                 "Em i soim long ol man i no bilip.",
                 "",
-                ""
+                "also: person, male"
             ],
             "flags": 0,
             "guid": "uQCwuCKMS_",
@@ -8004,7 +8004,7 @@
             "fields": [
                 "taim bilong kaikai",
                 "meal time",
-                "Tasol planti manmeri i wok long i go i kam, na Jisas wantaim ol aposel i no gat taim bilong kaikai.",
+                "San i go daun pinis, na taim bilong kaikai i kamap.",
                 "",
                 ""
             ],
@@ -8020,10 +8020,10 @@
             "data": "",
             "fields": [
                 "abus",
-                "meat | garnish | game, meat | animal | side-dish",
+                "wild animal",
                 "Em i stap wantaim ol wel abus.",
                 "",
-                ""
+                "also: meat, garnish, side-dish"
             ],
             "flags": 0,
             "guid": "l$@.P}iOyR",
@@ -8037,7 +8037,7 @@
             "data": "",
             "fields": [
                 "bungim",
-                "meet",
+                "to meet",
                 "Na long dispela taim em bai i salim ol ensel bilong en i go, na em bai i bungim ol manmeri em i bin makim bilong em yet.",
                 "",
                 ""
@@ -8071,10 +8071,10 @@
             "data": "",
             "fields": [
                 "susu",
-                "milk | breast",
+                "milk",
                 "Yupela i dring susu i stap yet.",
                 "",
-                ""
+                "also: breast"
             ],
             "flags": 0,
             "guid": "t!KiS7il[c",
@@ -8088,10 +8088,10 @@
             "data": "",
             "fields": [
                 "no gat",
-                "missing (as in not present)",
+                "missing",
                 "Em bai i no gat kot.",
                 "",
-                ""
+                "as in: not present"
             ],
             "flags": 0,
             "guid": "K8O3wkfP4(",
@@ -8106,7 +8106,7 @@
             "fields": [
                 "misin",
                 "mission",
-                "Pol yet i no bin kirapim sios i stap long taun Kolosi, tasol taim Pol i bin i stap long Efesus i luk olsem em i bin salim ol man i go mekim wok misin long ol arapela hap bilong provins, na ol i bin i go long Kolosi tu.",
+                "Em i bin salim ol man i go mekim wok misin long ol arapela hap bilong provins.",
                 "",
                 ""
             ],
@@ -8121,10 +8121,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "misinare | misinari | missinari",
+                "misinare",
                 "missionary",
                 "",
-                "",
+                "also: misinari",
                 ""
             ],
             "flags": 0,
@@ -8139,10 +8139,10 @@
             "data": "",
             "fields": [
                 "mo",
-                "more | extremely | very",
+                "more",
                 "Ripot i tok tu olsem planti mo i wok long lus iet.",
                 "",
-                ""
+                "also: very, extremely"
             ],
             "flags": 0,
             "guid": "AZK,)7r@g_",
@@ -8173,10 +8173,10 @@
             "data": "",
             "fields": [
                 "mama",
-                "mother | mummy | mom / woman",
+                "mother",
                 "Na em i bringim i go long mama bilong en.",
                 "",
-                ""
+                "also: mom"
             ],
             "flags": 0,
             "guid": "Ob/Dij{z%l",
@@ -8207,10 +8207,10 @@
             "data": "",
             "fields": [
                 "maski",
-                "never mind | although | forget about, ignore",
+                "although",
                 "Olgeta man i no gat lo na ol i mekim sin, ol bai i lus yet, maski ol i no gat lo.",
                 "",
-                ""
+                "also: even though; never mind, forget about it"
             ],
             "flags": 0,
             "guid": "IRpKRz3*`F",
@@ -8224,10 +8224,10 @@
             "data": "",
             "fields": [
                 "nupela",
-                "new | fresh",
-                "Wanpela man i marit nupela, em i laik i kam.",
+                "new",
+                "Wanpela man i marit nupela, em i laik i kam wantaim Jesus.",
                 "",
-                ""
+                "also: fresh"
             ],
             "flags": 0,
             "guid": "O#Ci#Ab#&a",
@@ -8241,10 +8241,10 @@
             "data": "",
             "fields": [
                 "bihain",
-                "next (after) | later on | after, afterwards",
+                "afterwards",
                 "Bipo em i stap, na nau em i stap, na bihain bai em i kam.”",
                 "",
-                ""
+                "also: later on, next, after"
             ],
             "flags": 0,
             "guid": "m*fVPsCX1l",
@@ -8258,10 +8258,10 @@
             "data": "",
             "fields": [
                 "arere",
-                "next to, beside | border | edge",
+                "next to",
                 "Olsem na namba wan ofisa i holim han bilong en, na i kisim em i go long arere.",
                 "",
-                ""
+                "also: beside; border, edge"
             ],
             "flags": 0,
             "guid": "wEXN@(4Up}",
@@ -8275,10 +8275,10 @@
             "data": "",
             "fields": [
                 "naispela",
-                "nice, attractive",
+                "nice",
                 "Ol i kisim wanpela naispela klos, na ol i pasim long em, na ol i salim em i go bek long Pailat.",
                 "",
-                ""
+                "also: attractive"
             ],
             "flags": 0,
             "guid": "Agy41!&nA`",
@@ -8292,10 +8292,10 @@
             "data": "",
             "fields": [
                 "nait",
-                "night | evening (late)",
+                "night",
                 "Na em i lusim ol na i go ausait long taun, na em i go i stap long Betani long dispela nait.",
                 "",
-                ""
+                "also: late evening"
             ],
             "flags": 0,
             "guid": "kkn$/ips-9",
@@ -8309,7 +8309,7 @@
             "data": "",
             "fields": [
                 "no",
-                "not | or",
+                "not",
                 "Em i no i dai.",
                 "",
                 ""
@@ -8326,10 +8326,10 @@
             "data": "",
             "fields": [
                 "nogat",
-                "nothing | no",
-                "Na em i tok, “Nogat.",
+                "no",
+                "Na em i tok, “Nogat.”",
                 "",
-                ""
+                "also: nothing"
             ],
             "flags": 0,
             "guid": "m-KLr<*<OB",
@@ -8343,10 +8343,10 @@
             "data": "",
             "fields": [
                 "pulap",
-                "occupied | replete | full, full up",
+                "full",
                 "Na olgeta i kaikai, na ol i pulap.",
                 "",
-                ""
+                "also: occupied"
             ],
             "flags": 0,
             "guid": "P;kew{R@r6",
@@ -8360,10 +8360,10 @@
             "data": "",
             "fields": [
                 "olpela",
-                "old (things)",
+                "old",
                 "Em i save tok, ‘Olpela em i gutpela.’",
                 "",
-                ""
+                "for things, not people"
             ],
             "flags": 0,
             "guid": "t`i!O:t-p2",
@@ -8376,11 +8376,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lapun (meri/ papa/ mama)",
-                "old man / woman / grandfather / grandmother",
+                "lapun",
+                "old",
                 "",
                 "",
-                ""
+                "for people, not things"
             ],
             "flags": 0,
             "guid": "wu*0oKi|<2",
@@ -8393,11 +8393,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "wanpela",
-                "one | a, an",
-                "Na em i no gat wanpela samting.",
+                "lapun meri",
+                "grandmother",
+                "",
                 "",
                 ""
+            ],
+            "flags": 0,
+            "guid": "wu*0oKi|<3",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wanpela",
+                "one",
+                "Na em i no gat wanpela samting.",
+                "",
+                "also: a"
             ],
             "flags": 0,
             "guid": "te!PBK*nqL",
@@ -8411,7 +8428,7 @@
             "data": "",
             "fields": [
                 "opim",
-                "open | open (vb)",
+                "to open",
                 "Olsem na em i opim maus bilong en na em i tok bilas long God.",
                 "",
                 ""
@@ -8428,7 +8445,7 @@
             "data": "",
             "fields": [
                 "long hap",
-                "over-there | there",
+                "over there",
                 "‘Em i stap long hap.’",
                 "",
                 ""
@@ -8461,10 +8478,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "baim | peim",
-                "pay (vb)",
+                "peim",
+                "to pay",
                 "",
-                "",
+                "also: baim",
                 ""
             ],
             "flags": 0,
@@ -8479,10 +8496,10 @@
             "data": "",
             "fields": [
                 "nating",
-                "perhaps | ordinary | for no reason | nought | zero",
+                "nothing",
                 "Na em i no i go nating.",
                 "",
-                ""
+                "also: ordinary, for no reason, zero"
             ],
             "flags": 0,
             "guid": "hyPV{)pT-H",
@@ -8496,7 +8513,7 @@
             "data": "",
             "fields": [
                 "wanples",
-                "person from same village",
+                "person from the same village",
                 "Na taim em i kamap long haus bilong en, em bai i singautim ol pren na wanples bilong en, na ol i kam bung.",
                 "",
                 ""
@@ -8513,7 +8530,7 @@
             "data": "",
             "fields": [
                 "wanlain",
-                "person of same (age, social) group",
+                "person of the same group",
                 "Na ol i tokim em, “I no gat wanpela bilong ol wanlain bilong yupela i gat dispela nem.”",
                 "",
                 ""
@@ -8547,10 +8564,10 @@
             "data": "",
             "fields": [
                 "pik",
-                "pig | pork",
-                "Na ol i stori long ol pik tu.",
+                "pig",
+                "Ol i save lukautim ol pik.",
                 "",
-                ""
+                "also: pork"
             ],
             "flags": 0,
             "guid": "p{52FDlS(",
@@ -8564,10 +8581,10 @@
             "data": "",
             "fields": [
                 "marimari",
-                "pity, mercy",
+                "mercy",
                 "Em i marimari long ol na makim ol.",
                 "",
-                ""
+                "also: pity"
             ],
             "flags": 0,
             "guid": "FK!bdMy5>9",
@@ -8581,10 +8598,10 @@
             "data": "",
             "fields": [
                 "diwai",
-                "pole | tree | wood (timber)",
+                "tree",
                 "Na ol i olsem ol diwai i no karim kaikai long taim bilong en.",
                 "",
-                ""
+                "also: wood"
             ],
             "flags": 0,
             "guid": "z?r3X-6jof",
@@ -8598,7 +8615,7 @@
             "data": "",
             "fields": [
                 "kaukau",
-                "potato | sweet potato",
+                "sweet potato",
                 "",
                 "",
                 ""
@@ -8615,10 +8632,10 @@
             "data": "",
             "fields": [
                 "kumu",
-                "greens | vegetables",
+                "vegetables",
                 "Olgeta liklik sayor na kumu samting bilong gaden em yupela i save tilim long 10-pela hap na givim wanpela hap long God.",
                 "",
-                ""
+                "also: greens"
             ],
             "flags": 0,
             "guid": "ecMZ7GsEHX",
@@ -8631,28 +8648,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "nais",
-                "pretty | beautiful",
-                "Na Pita i mekim nais long han bai ol i mas pasim maus.",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "D3Rxc]9rpY",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "pasim",
-                "put on (clothing) | shut | strap | close | fasten",
+                "to close",
                 "Na ol man i pasim dua.",
                 "",
-                ""
+                "also: to shut; to strap, to fasten; to put on clothing"
             ],
             "flags": 0,
             "guid": "M8l.VFtfwX",
@@ -8666,10 +8666,10 @@
             "data": "",
             "fields": [
                 "hamas",
-                "quantity | how much/many",
+                "how much",
                 "Na em i askim ol, “Yupela i gat hamas bret i stap?",
                 "",
-                ""
+                "also: how many"
             ],
             "flags": 0,
             "guid": "b}i8rE.T.+",
@@ -8683,10 +8683,10 @@
             "data": "",
             "fields": [
                 "hariap",
-                "quick | hurry, hurry up",
+                "to hurry",
                 "Em i laik hariap.",
                 "",
-                ""
+                "also: quickly"
             ],
             "flags": 0,
             "guid": "ES411Md,x@",
@@ -8700,10 +8700,10 @@
             "data": "",
             "fields": [
                 "kwiktaim",
-                "quickly | urgently | soon",
+                "quickly",
                 "Ol i harim tok, na ol i save kisim kwiktaim, na ol i amamas long en.",
                 "",
-                ""
+                "also: urgently, soon"
             ],
             "flags": 0,
             "guid": "e)nHq]CLPk",
@@ -8716,10 +8716,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rabis/ pipia",
+                "rabis",
                 "rubbish",
                 "",
-                "",
+                "also: pipia",
                 ""
             ],
             "flags": 0,
@@ -8733,10 +8733,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ranawe | ronwe",
-                "run away",
+                "ranawe",
+                "to run away",
                 "",
-                "",
+                "also: ronwe",
                 ""
             ],
             "flags": 0,
@@ -8750,9 +8750,9 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sikirapim | sikrapim",
-                "scrape",
-                "",
+                "sikirapim",
+                "to scrape",
+                "Yu mas sikirapim kokonas bilong kamautim gris bilong en.",
                 "",
                 ""
             ],
@@ -8767,28 +8767,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sikirapim kokonas",
-                "scrape coconut",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Mul2sB`=k,",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "nambis",
-                "seaside | coast (n) | beach",
+                "coast",
                 "Ol i no bin i stap longwe long nambis.",
                 "",
-                ""
+                "also: seaside, beach"
             ],
             "flags": 0,
             "guid": "sI:V.hG_}x",
@@ -8802,10 +8785,10 @@
             "data": "",
             "fields": [
                 "pulim",
-                "seduce | rape | pull",
+                "to pull",
                 "Na em i pulim ol i go na i putim ol long kalabus.",
                 "",
-                ""
+                "also: to seduce, to rape"
             ],
             "flags": 0,
             "guid": "GsMTh+Oojz",
@@ -8818,7 +8801,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "seven | sevenpela",
+                "sevenpela",
                 "seven",
                 "",
                 "",
@@ -8835,11 +8818,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "stoa | stua",
-                "shop (n) | store",
+                "stua",
+                "shop",
                 "",
-                "",
-                ""
+                "also: stoa",
+                "also: store"
             ],
             "flags": 0,
             "guid": "Ne|tl59&;C",
@@ -8853,7 +8836,7 @@
             "data": "",
             "fields": [
                 "soim",
-                "show (vb)",
+                "to show",
                 "Em i soim long ol man i no bilip.",
                 "",
                 ""
@@ -8870,10 +8853,10 @@
             "data": "",
             "fields": [
                 "bihain long",
-                "since (time) | behind | after, afterwards",
+                "behind",
                 "Em i dispela man i kam bihain long mi.",
                 "",
-                ""
+                "also: after, afterwards"
             ],
             "flags": 0,
             "guid": "h.=B-*:c9X",
@@ -8887,7 +8870,7 @@
             "data": "",
             "fields": [
                 "susa",
-                "sister (kin)",
+                "sister",
                 "Na olgeta susa bilong en, ol i stap wantaim yumi.",
                 "",
                 ""
@@ -8903,11 +8886,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sista / nes",
-                "sister (nurse, nun)",
+                "Sista",
+                "nurse",
                 "",
-                "",
-                ""
+                "also: nes",
+                "also: sister, nun"
             ],
             "flags": 0,
             "guid": "Pcqk}/rk{p",
@@ -8938,8 +8921,8 @@
             "data": "",
             "fields": [
                 "sampela taim",
-                "sometimes | seldom",
-                "Na sampela taim ating em bai i orait long pasin ol i bin mekim.",
+                "sometimes",
+                "Computer bilong em i wokim sampela taim tasol.",
                 "",
                 ""
             ],
@@ -8955,10 +8938,10 @@
             "data": "",
             "fields": [
                 "kain",
-                "sort, kind",
-                "Na ol i mekim ol kain kain pasin i no stret.",
+                "sort",
+                "I gat tupela kain kokonas: ol kulau na ol drai kokonas.",
                 "",
-                ""
+                "also: kind"
             ],
             "flags": 0,
             "guid": "J_dC9pY9gm",
@@ -8972,10 +8955,10 @@
             "data": "",
             "fields": [
                 "bagarapim",
-                "spoil",
+                "to destroy",
                 "Yupela i no ken prea long em i bagarapim ol.",
                 "",
-                ""
+                "also: to spoil"
             ],
             "flags": 0,
             "guid": "j}C1W*j1;X",
@@ -8989,7 +8972,7 @@
             "data": "",
             "fields": [
                 "sanapim",
-                "stand up, erect (something)",
+                "to erect something",
                 "Na em i bringim Pol i kam daun na i sanapim em long pes bilong ol.",
                 "",
                 ""
@@ -9006,10 +8989,10 @@
             "data": "",
             "fields": [
                 "sapos",
-                "suppose, if | if",
+                "if",
                 "Sapos em i stap long graun, em bai i no inap i stap pris.",
                 "",
-                ""
+                "also: suppose"
             ],
             "flags": 0,
             "guid": "K$*J4g9$c!",
@@ -9023,7 +9006,7 @@
             "data": "",
             "fields": [
                 "brumim",
-                "sweep",
+                "to sweep",
                 "Na em bai i go na lukim dispela haus i stap nating, na ol i brumim na bilasim pinis.",
                 "",
                 ""
@@ -9040,7 +9023,7 @@
             "data": "",
             "fields": [
                 "tekewe",
-                "take away",
+                "to take away",
                 "",
                 "",
                 ""
@@ -9057,10 +9040,10 @@
             "data": "",
             "fields": [
                 "kirap",
-                "take off (plane) | get up",
+                "get up",
                 "Em i kirap pinis.",
                 "",
-                ""
+                "also: to take off"
             ],
             "flags": 0,
             "guid": "Ehq!mQ},tC",
@@ -9074,10 +9057,10 @@
             "data": "",
             "fields": [
                 "tingting",
-                "think | thoughts | opinion",
+                "thoughts",
                 "Em i no tingting long em yet i mas i stap gut.",
                 "",
-                ""
+                "also: opinion; to think"
             ],
             "flags": 0,
             "guid": "rxxigP%v~}",
@@ -9091,7 +9074,7 @@
             "data": "",
             "fields": [
                 "tromoi",
-                "throw",
+                "to throw",
                 "Na ol bai i tromoi ol i go long bikpela paia.",
                 "",
                 ""
@@ -9107,10 +9090,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "haus pekpek | liklik haus | smol haus | toilet",
+                "liklik haus",
                 "toilet",
                 "",
-                "",
+                "also: haus pekpek, smol haus, toilet",
                 ""
             ],
             "flags": 0,
@@ -9126,7 +9109,7 @@
             "fields": [
                 "no inap",
                 "unable to",
-                "Em i no inap.",
+                "Em i no inap wokim haus.",
                 "",
                 ""
             ],
@@ -9142,10 +9125,10 @@
             "data": "",
             "fields": [
                 "bung wantaim",
-                "unite",
+                "to meet",
                 "Ol aposel i kam bek na ol i bung wantaim Jisas.",
                 "",
-                ""
+                "also: to unite"
             ],
             "flags": 0,
             "guid": "FKbK%q0-f`",
@@ -9159,10 +9142,10 @@
             "data": "",
             "fields": [
                 "save",
-                "usually | understand | know | science | do something regularly",
+                "to know.",
                 "God i save.",
                 "",
-                ""
+                "also: to understand; to do something regularly, usually"
             ],
             "flags": 0,
             "guid": "ypYXhn#F9D",
@@ -9176,10 +9159,10 @@
             "data": "",
             "fields": [
                 "namba wan",
-                "very good | first",
+                "first",
                 "Na ol i tok, “Namba wan.”",
                 "",
-                ""
+                "also: very good"
             ],
             "flags": 0,
             "guid": "JJAYn%UO@3",
@@ -9192,7 +9175,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ples | viles",
+                "ples",
                 "village",
                 "",
                 "",
@@ -9210,10 +9193,10 @@
             "data": "",
             "fields": [
                 "bin",
-                "was | did | past tense marker | beans",
+                "did",
                 "God i bin salim em i kam.",
                 "",
-                ""
+                "past tense marker. also: was; bean"
             ],
             "flags": 0,
             "guid": "L!0hJd~KX-",
@@ -9227,10 +9210,10 @@
             "data": "",
             "fields": [
                 "wara",
-                "water | river",
+                "water",
                 "Na man i givim wara, em tu i no gat nem.",
                 "",
-                ""
+                "also: river"
             ],
             "flags": 0,
             "guid": "lsLYH+vTn>",
@@ -9244,10 +9227,10 @@
             "data": "",
             "fields": [
                 "taim",
-                "weather (n) | time",
+                "time",
                 "Taim bilong mi em i no yet.”",
                 "",
-                ""
+                "also: weather"
             ],
             "flags": 0,
             "guid": "Cl6x$rtrxn",
@@ -9260,11 +9243,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "bilong wanem?",
-                "what for?",
+                "bilong wanem",
+                "what for",
                 "",
                 "",
-                ""
+                "also: why, because"
             ],
             "flags": 0,
             "guid": "m:rob=:|-:",
@@ -9295,10 +9278,10 @@
             "data": "",
             "fields": [
                 "wok",
-                "work, job | duty (obligation)",
+                "work",
                 "Nau ol i mas wok.",
                 "",
-                ""
+                "also: job, duty"
             ],
             "flags": 0,
             "guid": "mW?,&uvx2N",
@@ -9312,8 +9295,8 @@
             "data": "",
             "fields": [
                 "sua",
-                "wound | sore",
-                "Ol i kam sua pinis, na ol i lukim wanpela paia i stap.",
+                "wound",
+                "Sua bilong em i no drai pinis.",
                 "",
                 ""
             ],
@@ -9329,10 +9312,10 @@
             "data": "",
             "fields": [
                 "krismas",
-                "year (of age) | Christmas",
+                "year (of age)",
                 "Na nau em i gat 84 krismas bilong en.",
                 "",
-                ""
+                "also: Christmas"
             ],
             "flags": 0,
             "guid": "CNta]QK/D0",
@@ -9347,7 +9330,7 @@
             "fields": [
                 "blut",
                 "blood",
-                "Em i save kisim blut na i go insait.",
+                "Em i katim nek bilong pik na blut i kamaut.",
                 "",
                 ""
             ],
@@ -9363,10 +9346,10 @@
             "data": "",
             "fields": [
                 "bata",
-                "butter/ avocado",
+                "avocado",
                 "",
                 "",
-                ""
+                "also: butter"
             ],
             "flags": 0,
             "guid": "CVijH.wZM_",
@@ -9430,11 +9413,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "belhevi",
-                "regret",
+                "bel hevi",
+                "sad",
                 "",
                 "",
-                ""
+                "also: to regret, to feel sorry"
             ],
             "flags": 0,
             "guid": "BWL.(,4Y]Y",
@@ -9499,7 +9482,7 @@
             "data": "",
             "fields": [
                 "westim",
-                "waste",
+                "to waste",
                 "Sir Mekere Morauta i tok union na ol memba blong en i westim nating taim blong ol.",
                 "",
                 ""
@@ -9568,7 +9551,7 @@
             "fields": [
                 "ensin",
                 "engine",
-                "Air Nauru ino laik tok orait long pipol husat i laik bukim ron igo long wanem em i tok balus blong en i wok long bungim ol kain heve long ensin blong en.",
+                "Balus blong en i wok long bungim ol kain heve long ensin blong en.",
                 "",
                 ""
             ],
@@ -9583,10 +9566,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pok",
+                "fok",
                 "fork",
-                "Tasol Petroleum na Energy Minister Fabian Pok i tok, i kam inap nau, nogat trabal i kamap long ol dispela projek.",
-                "",
+                "Ol save kaikai wantaim fok na spun na naip.",
+                "also: pok",
                 ""
             ],
             "flags": 0,
@@ -9636,7 +9619,7 @@
             "fields": [
                 "lip",
                 "leaf",
-                "Ol lip tasol i stap.",
+                "Ol diwai long Europa save lusim lip bilong ol long taim bilong kol.",
                 "",
                 ""
             ],
@@ -9655,7 +9638,7 @@
                 "mouth",
                 "Na bai ol i harim maus bilong mi.",
                 "",
-                ""
+                "also: voice"
             ],
             "flags": 0,
             "guid": "sg$[rLEK2q",
@@ -9689,7 +9672,7 @@
                 "orange",
                 "",
                 "",
-                ""
+                "fruit"
             ],
             "flags": 0,
             "guid": "uMZw;SnJIU",
