@@ -7458,23 +7458,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "man i gat namba",
-                "a man of high esteem",
-                "Mi gat namba na strong long ples bilong mi.",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "J+vk2gJ<~Z",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "raunwara",
                 "lake",
                 "Na ol i pundaun long raunwara, na ol i dring wara na i dai.",
@@ -8384,23 +8367,6 @@
             ],
             "flags": 0,
             "guid": "wu*0oKi|<2",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "lapun meri",
-                "grandmother",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "wu*0oKi|<3",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "2"
@@ -29966,6 +29932,40 @@
             ],
             "flags": 0,
             "guid": "lR85];ja$x",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "man i gat namba",
+                "a man of high esteem",
+                "Mi gat namba na strong long ples bilong mi.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J+vk2gJ<~Z",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "lapun meri",
+                "grandmother",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wu*0oKi|<3",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "2"
