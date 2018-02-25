@@ -7037,7 +7037,7 @@
                 "to lift up",
                 "",
                 "also: haisapim, winsim",
-                "also: to hoist"
+                "also: to hoist; to raise, to increase"
             ],
             "flags": 0,
             "guid": "Hdi@H]A.e%",
@@ -10025,10 +10025,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "alta | tebol tambu",
+                "alta",
                 "altar",
                 "",
-                "",
+                "also: tebol tambu",
                 ""
             ],
             "flags": 0,
@@ -10144,10 +10144,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "abrus long; longwe liklik long",
+                "abrus long",
                 "apart from",
                 "",
-                "",
+                "alao: longwe liklik long",
                 ""
             ],
             "flags": 0,
@@ -10264,10 +10264,10 @@
             "data": "",
             "fields": [
                 "abrusim",
-                "avoid | pass, overtake",
+                "to avoid",
                 "Na ol bai i no inap abrusim dispela samting.",
                 "",
-                ""
+                "also: to pass, to overtake"
             ],
             "flags": 0,
             "guid": "m/O)~7C;qj",
@@ -10875,10 +10875,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "abababa/ pike",
+                "pike",
                 "bubble gum",
                 "",
-                "",
+                "a brand: PK. also: abababa",
                 ""
             ],
             "flags": 0,
@@ -11642,7 +11642,7 @@
             "fields": [
                 "karamapim",
                 "to cover",
-                "Na ol rop i gat nil i kamap na i karamapim wit.",
+                "Mama karamapim pikinini bilong en, nogut em kol.",
                 "",
                 ""
             ],
@@ -11708,10 +11708,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "longlong; waia i lus",
+                "longlong",
                 "crazy",
                 "",
-                "",
+                "also: waia i lus",
                 ""
             ],
             "flags": 0,
@@ -11725,11 +11725,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "raskol/ man nogut",
-                "criminal | rascal",
+                "raskol",
+                "criminal",
                 "",
-                "",
-                ""
+                "also: man nogut",
+                "noun"
             ],
             "flags": 0,
             "guid": "lIb/Z*Um4G",
@@ -11759,11 +11759,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "kros | belhat",
-                "cross | angry",
+                "kros",
+                "cross",
                 "",
                 "",
-                ""
+                "also: angry"
             ],
             "flags": 0,
             "guid": "pL*3`#=8rD",
@@ -12695,8 +12695,8 @@
             "data": "",
             "fields": [
                 "ai bilong",
-                "front of, in",
-                "Long ai bilong ol man tu.",
+                "in front of",
+                "Long ai bilong ol man tu. (FIXME)",
                 "",
                 ""
             ],
@@ -14157,10 +14157,10 @@
             "data": "",
             "fields": [
                 "antap long",
-                "on top of | on | above",
+                "on top of",
                 "Na man i go long wanpela wok, em i no stap antap long man i bin salim em i go.",
                 "",
-                ""
+                "also: on, above"
             ],
             "flags": 0,
             "guid": "o#_-^~ERgh",
@@ -14276,7 +14276,7 @@
             "data": "",
             "fields": [
                 "abrusim ka",
-                "overtake a car",
+                "to overtake a car",
                 "",
                 "",
                 ""
@@ -14496,10 +14496,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ananas | painap",
+                "ananas",
                 "pineapple",
                 "",
-                "",
+                "also: painap",
                 ""
             ],
             "flags": 0,
@@ -14810,23 +14810,6 @@
             ],
             "flags": 0,
             "guid": "eWQm4,.,d~",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "3"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "apim (pe)",
-                "raise, increase",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "j9N<7y9,s$",
             "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
             "tags": [
                 "3"
@@ -15670,10 +15653,10 @@
             "data": "",
             "fields": [
                 "ananit",
-                "under, underneath | bottom",
-                "Tupela mun igo pinis, pati ibin askim pipol long makim ol iet long sanap resis, tasol em ino tok-aut iet long hamas kendidet bai sanap ananit long flag blong en.",
+                "under",
+                "Pati ino tok-aut iet long hamas kendidet bai sanap ananit long flag blong en.",
                 "",
-                ""
+                "also: underneath, bottom"
             ],
             "flags": 0,
             "guid": "Cb-2gNL.ZW",
@@ -15704,10 +15687,10 @@
             "data": "",
             "fields": [
                 "antap",
-                "upstairs | summit | up | high",
+                "up",
                 "Em i tok tru antap na i makim em.",
                 "",
-                ""
+                "also: high, summit; upstairs"
             ],
             "flags": 0,
             "guid": "Nt!T6<YSW@",
@@ -16980,7 +16963,7 @@
             "fields": [
                 "adres",
                 "address",
-                "Sydney, i kam long Malaysia, long namba 23 de blong mun Desemba na ol ibin putim adres blong wanpela komputa kampani long wanpela giaman adres.",
+                "Ol ibin putim adres blong wanpela komputa kampani long wanpela giaman adres.",
                 "",
                 ""
             ],
@@ -17167,7 +17150,7 @@
             "fields": [
                 "akis",
                 "axe",
-                "Scrivener, em oli bin katim ol long akis, tupela wik igo pinis.",
+                "Oli bin katim diwai long akis.",
                 "",
                 ""
             ],
@@ -21672,7 +21655,7 @@
             "fields": [
                 "ansa",
                 "result",
-                "George Speight INO stap insait long dispela keis, tasol em bai givim bikpela toksave, sapos em bai kamap long kot long ansa long Treason Charge bilong em.",
+                "FIXME George Speight INO stap insait long dispela keis, tasol em bai givim bikpela toksave, sapos em bai kamap long kot long ansa long Treason Charge bilong em.",
                 "",
                 ""
             ],
@@ -22367,10 +22350,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ai i hevi | ai i slip",
+                "ai i hevi",
                 "sleepy",
                 "",
-                "",
+                "also: ai i slip",
                 ""
             ],
             "flags": 0,
@@ -22453,10 +22436,10 @@
             "data": "",
             "fields": [
                 "ais",
-                "snow | ice / fog",
+                "ice",
                 "Olsem na ol i tok nogut long God i salim dispela ais i kam bagarapim ol.",
                 "",
-                ""
+                "also: snow"
             ],
             "flags": 0,
             "guid": "B_<fWbbJ`!",
@@ -24560,8 +24543,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ain; ainim | ainim klos",
-                "iron",
+                "ainim klos",
+                "to iron clothes",
                 "",
                 "",
                 ""
@@ -25070,23 +25053,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ailan Manam",
-                "Manam Island",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "zvOFL`Rajs",
-            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
-            "tags": [
-                "5"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "Prai Minista",
                 "Prime Minister",
                 "",
@@ -25224,10 +25190,10 @@
             "data": "",
             "fields": [
                 "adresim",
-                "address (letter)",
+                "to address",
                 "",
                 "",
-                ""
+                "... a letter"
             ],
             "flags": 0,
             "guid": "E!;>SF89Cd",
@@ -29936,6 +29902,21 @@
             "tags": [
                 "2"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "belhat",
+                "angry",
+                "Em i no toktok wantaim mi; ating em belhat tru.",
+                "",
+                "also: cross"
+            ],
+            "flags": 0,
+            "guid": "8AojI",
+            "note_model_uuid": "67877a80-0432-11e8-a2a0-6003089944e4",
+            "tags": []
         },
         {
             "__type__": "Note",
